@@ -1,1 +1,1 @@
-# Escape-Room-Lock
+I completed this project for an escape room during my internship. Using an Arduino microcontroller and other necessary components, I constructed a lock that, upon opening, triggers the sound of an owl.
